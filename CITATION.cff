@@ -1,0 +1,23 @@
+cff-version: 1.0.0
+title: Quantum Vault: Secure Token Authentication Without Classical Side Information Benchmarked on IBMQ
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Lucas
+    email: tsunakilucas@gmail.com
+    affiliation: Helmholtz Zentrum Berlin für Materialien und Energie GmbH
+    family-names: Tsunaki
+    orcid: 'https://orcid.org/0009-0003-3534-6300'
+  - given-names: Boris
+    email: boris.naydenov@helmholtz-berlin.de
+    affiliation: Helmholtz Zentrum Berlin für Materialien und Energie GmbH
+    family-names: Naydenov
+    orcid: 'https://orcid.org/0000-0002-5215-3880'
+identifiers:
+  - type: doi
+    value:
+repository-code: 'h'
+license: GPL-3.0
+version: '1.0.0'
