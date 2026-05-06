@@ -1,5 +1,5 @@
 cff-version: 1.0.0
-title: Quantum Vault: Secure Token Authentication Without Classical Side Information Benchmarked on IBMQ
+title: Quantum Vault: Secure Token Authentication Without Classical State Information Benchmarked on IBMQ
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -17,7 +17,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-5215-3880'
 identifiers:
   - type: doi
-    value:
+    value: 10.48550/arXiv.2605.03564
 repository-code: 'h'
 license: GPL-3.0
 version: '1.0.0'
