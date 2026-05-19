@@ -1,5 +1,7 @@
 # Quantum Vault: Secure Token Authentication Without Classical Side Information Benchmarked on IBMQ
 
+[![arXiv](https://img.shields.io/badge/arXiv-2605.03564-b31b1b?logo=arxiv)](https://arxiv.org/abs/2605.03564)
+
 This repository contains the basic methods for implementing the quantum vault protocol with IBMQ from 'Quantum Vault: Secure Token Authentication Without Classical State Information Benchmarked on IBMQ' by L. Tsunaki et al., available at: [arXiv:2605.03564](https://arxiv.org/abs/2605.03564). 
 
 A script for implementing the SWAP test can be found at [swap_test.py](https://github.com/lucas-tsunaki/quantum_vault/blob/main/swap_test.py).

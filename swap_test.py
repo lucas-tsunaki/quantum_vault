@@ -1,7 +1,7 @@
 """
 This script implements a SWAP test for the verification of the quantum vault protocol,
 as discussed in "Quantum Vault: Secure Token Authentication Without Classical Side Information Benchmarked on IBMQ"
-by Lucas Tsunaki and Boris Naydenov. 
+by Lucas Tsunaki and Boris Naydenov, arXiv:2605.03564. 
 """
 
 import numpy as np
